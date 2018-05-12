@@ -1,0 +1,32 @@
+_repo: Great-Singers-on-the-Art-of-SingingEducational-Conferences-with-Foremost-Artists_33358
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33358-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cooke, James Francis
+    birthdate: 1875
+    deathdate: 1960
+    gutenberg_agent_id: '33085'
+    url: http://www.gutenberg.org/2009/agents/33085
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2010-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33358'
+  lccn: '21021298'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voice culture'
+- !lcc 'MT'
+- !lcsh 'Singers'
+- !lcsh 'Singing'
+title: 'Great Singers on the Art of Singing
+
+  Educational Conferences with Foremost Artists'
+url: http://www.gutenberg.org/ebooks/33358
